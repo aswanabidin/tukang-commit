@@ -33,6 +33,7 @@ I graduated with a BS in Computer Science from Telkom University Bandung in 2018
 **Languages and Tools:**  
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png"></code>
+<code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"></code>
 <code><img height="20" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png"></code>
 <code><img height="20" src="https://ih0.redbubble.net/image.415946483.7473/flat,1000x1000,075,f.u1.jpg"></code>
