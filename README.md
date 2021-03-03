@@ -21,7 +21,7 @@ Hi, I'm Aswan Abidin as an Software Engineer especially Android Engineer from In
 
 Besides programming, I also like to do User Interface Design.
 
-I graduated with a BS in Computer Science from Telkom University Bandung in 2018.
+I graduated with a BS in Computer Science from [Telkom University Bandung](https://telkomuniversity.ac.id/en/) in 2018.
   
 **Talking about Personal Stuffs:**
 
