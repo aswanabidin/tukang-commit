@@ -21,7 +21,7 @@ Hi, I'm Aswan Abidin as an Software Engineer especially Android Engineer from In
 
 Besides programming, I also like to do User Interface Design and usually do Illustrator Design. You can visit my UI portofolio [here](https://dribbble.com/aswanabidin) and my Illustrator Design portofolio [here](https://www.behance.net/aswanabidin).
 
-I graduated with a BS in Computer Science from [Telkom University Bandung](https://telkomuniversity.ac.id/en/) in 2018.
+I graduated with a BS in Computer Science from [Telkom University Bandung](https://telkomuniversity.ac.id/en/) in 2018. Before graduation celebration, I have been accepted to first work at an IT Consulting Company in Jakarta, Indonesia as an Android Developer. This is my first experience after graduated.
   
 **Talking about Personal Stuffs:**
 
